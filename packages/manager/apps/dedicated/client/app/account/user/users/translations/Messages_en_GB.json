@@ -22,6 +22,7 @@
   "user_roles_regular": "Restricted Admin",
   "user_roles_unprivileged": "Read-Only",
   "user_roles_none": "None",
+  "user_users_group": "Group",
   "user_users_disable": "Disable user",
   "user_users_delete_modal_step1_question": "Are you sure you want to delete the user <strong>{{login}}</strong>?",
   "user_users_disable_modal_step1_question": "Are you sure you want to disable the user <strong>{{login}}</strong>?",
